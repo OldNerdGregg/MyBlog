@@ -7,3 +7,9 @@ A blog for my own personal website.
 + PHP
 + MySQL
 + BootStrap
+
+## Development Environment
+I am currently using DevilBox, a Docker suite of web development tools
+
+## IDE
+I am using Atom for Ubuntu
